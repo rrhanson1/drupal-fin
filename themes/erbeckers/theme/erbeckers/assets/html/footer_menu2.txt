@@ -1,0 +1,10 @@
+<aside id="block-menu-menu2" class="block-menu-menu2 block block-menu footer_block2">
+  <div class = "title">
+    <h2>Services</h2>
+  </div>
+  <ul class="nav sidebar-menu">
+    <li class="first leaf"><a href="#" title="Designs">Designs</a></li>
+    <li class="leaf"><a href="#" title="Development">Development</a></li>
+    <li class="last leaf"><a href="#" title="Multimedia">Multimedia</a></li>
+  </ul>
+</aside>

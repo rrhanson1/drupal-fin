@@ -1,0 +1,11 @@
+<aside id="block-menu-menu3" class="block-menu-menu3 block block-menu footer_block3">
+  <div class = "title">
+    <h2>Links</h2>
+  </div>
+  <ul class="nav sidebar-menu">
+    <li class="first leaf"><a href="#" title="FAQ">FAQ</a></li>
+    <li class="leaf"><a href="#" title="Site map">Site map</a></li>
+    <li class="leaf"><a href="#" title="Terms and Conditions">Terms and Conditions</a></li>
+    <li class="last leaf"><a href="#" title="Privacy policy">Privacy policy</a></li>
+  </ul>
+</aside>

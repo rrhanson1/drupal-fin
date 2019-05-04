@@ -1,0 +1,194 @@
+@media (max-width: 767px) {
+  body.navbar-is-fixed-top {
+    padding-top: 50px !important;
+  }
+  header#navbar .navbar-toggle {
+    border: 1px solid;
+  }
+  header#navbar .navbar-toggle {
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+  .carousel-homeslider-header-yellow-slider .carousel-caption {
+    bottom: 10%;
+  }
+  .carousel-homeslider-header-yellow-slider .carousel-caption .desc {
+    font-size: 1em;
+    margin-bottom: 10px;
+  }
+  .carousel-homeslider-header-yellow-slider .carousel-caption .title {
+    font-size: 1.1em;
+    margin-bottom: 5px;
+  }
+  .carousel-homeslider-header-yellow-slider .carousel-caption .cta-button {
+    padding: 5px 15px;
+    font-size: 1em;
+  }
+  .carousel-homeslider-header-yellow-slider .carousel-indicators {
+    bottom: 0px;
+  }
+  header#navbar nav {
+    max-height: 10px;
+  }
+  header#navbar .navbar-scrolled .navbar-nav>.open>a, 
+  header#navbar .navbar-scrolled.navbar-nav>.active>a {
+    background-image: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  .carousel-homeslider-header-yellow-slider .carousel-caption .title {
+    font-size: 2.5em;
+  }
+  .carousel-homeslider-header-yellow-slider .carousel-caption .desc {
+    font-size: 1.5em;
+  }
+}
+@media (min-width: 768px) {
+  body.path-frontpage {
+    padding-top: 0px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .footer-wrap {
+    padding-top: 25px;
+    padding-bottom: 27px;
+  }
+  .footer-wrap .footer-menus h2 {
+    margin-top: 20px !important;
+    margin-bottom: 0px;
+    padding-bottom: 0;
+  }
+  
+  .footer-wrap .footer-message h2 {
+    margin-bottom: 15px;
+  }
+
+  .footer-wrap .footer-message-content .camera-icon i {
+    margin-top: 15px;
+  }
+
+  .footer-wrap .footer-message {
+    padding-bottom: 6px;
+  }
+
+  .footer-wrap .footer-message .block-content {
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 15px;
+  }
+
+  .footer-wrap .footer-menus-signup {
+    text-align: center;
+  }
+
+  .footer-wrap .footer-menus-signup .title h2 {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+  }
+
+  .footer-wrap .footer-menus-signup .footer-signup-title {
+    margin-bottom: 20px;
+  }
+
+  .footer-wrap #mainchimp-subscribe {
+    border-bottom: 0px;
+  }
+
+  .footer-wrap #contact_email {
+    border: none;
+    width: 90%;
+    border-bottom: 1px solid #ffffff;
+    display: inline;
+    border-radius: 0px;
+    text-align: center
+  }
+
+  .footer-wrap .subscribe-form-submit {
+    display: inline;
+    width: 90%;
+    text-align: center;
+    margin-top: 30px;
+    float: none; 
+    border-radius: 0px;
+    height: 45px;
+    font-style: normal;
+  }
+
+  .footer-wrap .footer-copyright {
+    text-align: center;
+  }
+}
+
+@media (max-width: 767px) {
+
+.content-dark-navy-blue {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.content-dark-navy-blue .top-header .title{
+  font-size: 1.88em;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0;
+}
+
+.content-dark-navy-blue .top-header .download-links {
+  display: block;
+  margin: auto auto 20px;
+}
+
+.content-dark-navy-blue .top-header .download-links .learnmore {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.content-dark-navy-blue .top-header .download-links .buynow {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.content-dark-navy-blue .content-box-left img {
+  width: 100%;
+}
+
+.content-dark-navy-blue .content-boxes {
+  margin-top: 2px;
+}
+
+.content-dark-navy-blue .content-boxes .content-box-right .point-title {
+  font-size: 1.8em;
+  margin-bottom: 22px;
+  margin-top: -19px;
+}
+ 
+.content-dark-navy-blue .content-boxes .content-box-right li {
+  font-size: 1.1em;
+}
+
+.content-dark-navy-blue .content-boxes .content-box-right {
+  padding-left: 0;
+  padding-top: 40px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+.content-dark-navy-blue .content-box-left img {
+  width: 100%;
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+.content-dark-navy-blue .content-box-left img {
+  width: 100%;
+}
+
+}
+

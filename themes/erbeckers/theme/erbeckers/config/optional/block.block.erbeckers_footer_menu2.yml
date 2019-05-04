@@ -1,0 +1,23 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - erbeckers
+id: erbeckers_footer_menu2
+theme: erbeckers
+region: footer_menu2
+weight: -5
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:footer_menu2_main_erbeckers_li7ZpBA2zc'
+  label: 'Second Menu'
+  provider: system
+  label_display: <<LABEL-DISPLAY>>
+  level: 1
+  depth: 1
+visibility: {  }

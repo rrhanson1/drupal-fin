@@ -1,0 +1,9 @@
+<div class = "block-title footer-message-title row">
+  <h2 class = "title">CMS Bots</h2>
+</div>
+<div class = "block-content footer-message-content row">
+  <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.Morbi felis elit, consequat vitae libero non, porttitor euismod mauris. Aliquam neque nulla, aliquet eget diam nec, tincidunt congue ex. Pellentesque tincidunt in enim quis hendrerit. Cras a consectetur metus. Nam porttitor ipsum ac mi sagittis,id placerat mauris commodo. Suspendisse in vehicula nunc, sagittis eleifend arcu. tiam facilisis erat ac arcu malesuada congue.</p>
+  <div class="camera-icon text-center">
+    <i class="fa fa-camera"></i>
+  </div>
+</div>

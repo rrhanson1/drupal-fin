@@ -1,0 +1,22 @@
+<div class="row text-center top-header">
+  <h2 class="title">We have the latest technology and <br> We have created the product that will help you Faster & Easier</h2>
+  <div class="download-links">
+    <a href="#" class="btn btn-default btn-lg learnmore" role="button">Learn more</a>
+    <a href="#" class="btn btn-default btn-lg buynow" role="button">Buy now</a>
+  </div>
+</div>
+<div class="row content-boxes">
+  <div class="col-sm-6 col-xs-12 content-box-left">
+    <img src="<<path-to-theme>>/assets/images/content-dark-navy-blue-devices.png"  class="img-responsive"/>
+  </div>
+  <div class="col-sm-6 col-xs-12 content-box-right" >
+    <span class="point-title">Fully Responsive</span>
+    <ul>
+      <li><i class="fa fa-check"></i>Ut imperdiet elit vel varius viverra.</li>
+      <li><i class="fa fa-check"></i>Sed bibendum lorem sed sem faucibus, et pretium ex.</li>
+      <li><i class="fa fa-check"></i>Proin facilisis turpis imperdiet ullamcorper sodales.</li>
+      <li><i class="fa fa-check"></i>Pellentesque cursus enim non congue ullamcorper.</li>
+      <li><i class="fa fa-check"></i>Etiam dictum lorem faucibus, tristique nisl vitae, vestib.</li>
+    </ul>
+  </div>
+</div>

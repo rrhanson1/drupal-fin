@@ -1,0 +1,29 @@
+<?php
+/**
+ * @file
+ * Theme file.
+ *
+ * All preprocessors and theme functions goes here.
+ */
+
+/**
+ * Implements hook_preprocess_page().
+ *
+ * @see page.html.twig
+ */
+function erbeckers_preprocess_page(&$variables) {
+  $theme = 'erbeckers';
+  // Add content for home page regions.
+  $home_page_regions = array (
+    'home_welcome',
+    'content_dark_navy_blue',
+    'footer_copyright',
+    'footer',
+    'footer_signup',
+    'footer_menu1',
+    'footer_menu3',
+    'footer_menu2',
+  );
+
+  $variables['snippet'] = _mbase_smart_render($home_page_regions, $theme);
+}

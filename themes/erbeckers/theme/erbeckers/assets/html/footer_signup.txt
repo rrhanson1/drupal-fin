@@ -1,0 +1,11 @@
+<div class = "block-title title footer-signup-title">
+  <h2>Get Updates</h2>
+</div>
+<div class = "block-content footer-signup-content">
+  <form id="mainchimp-subscribe" role="form" name="contactform1" class="flat-form form-inline mainchimp-subscribe form-horizontal" method="post" data-post-url="https://quardz.us2.list-manage.com/subscribe/post?u=9eba3d1fdf97776e30906f405&amp;id=8f8fe8e466">
+    <input id="contact_email" class="subscribe-form-email form-control input-lg col-md-8" type="email" autocomplete="off" placeholder="Email Address" name="EMAIL" />
+    <div style="position: absolute; left: -5000px;"><input type="hidden" name="b_9eba3d1fdf97776e30906f405_8f8fe8e466" tabindex="-1" value="" /></div>
+    <button class="subscribe-form-submit btn btn-black btn-lg col-md-4" data-loading-text="Loading..." name="subscribe">Go</button>
+  </form>
+  <!-- Form Ends -->
+</div>

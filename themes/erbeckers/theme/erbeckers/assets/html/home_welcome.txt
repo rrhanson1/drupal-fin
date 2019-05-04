@@ -1,0 +1,43 @@
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-homeslider-header-yellow-slider" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-homeslider-header-yellow-slider" data-slide-to="1" class=""></li>
+    <li data-target="#carousel-homeslider-header-yellow-slider" data-slide-to="2" class=""></li>
+  </ol>
+  <div class="view-content carousel-inner">
+    <div class="active views-row views-row-1 views-row-odd views-row-first item">
+      <img src="<<path-to-theme>>/assets/images/content-image-header-header-yellow-slider-main-background3.jpg" data-src="" alt="">
+      <div class="container">
+        <div class="carousel-caption">
+          <div class="slider-content">
+            <h2 class="title">Your <span>Photography</span></h2>
+            <span class="desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+            <a href="#" class="btn cta-button btn-warning btn-lg" role="button">Buy Now</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class=" views-row views-row-2 views-row-even item">
+      <img src="<<path-to-theme>>/assets/images/content-image-header-header-yellow-slider-main-background2.jpg" data-src="" alt="">
+      <div class="container">
+        <div class="carousel-caption">
+          <div class="slider-content">
+            <h2 class="title">We gives <span>Color to life </span></h2>
+            <span class="desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+            <a href="#" class="btn cta-button btn-warning btn-lg" role="button">Buy Now</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class=" views-row views-row-3 views-row-odd views-row-last item">
+      <img src="<<path-to-theme>>/assets/images/content-image-header-header-yellow-slider-main-background1.jpg" data-src="" alt="">
+      <div class="container">
+        <div class="carousel-caption">
+          <div class="slider-content">
+            <h2 class="title">We capture <span>moments</span></h2>
+            <span class="desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+            <a href="#" class="btn cta-button btn-warning btn-lg" role="button">Buy Now</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

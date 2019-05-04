@@ -1,0 +1,18 @@
+fields:
+  link: Link
+  Base: Base color
+  text: Text color
+  footer_bg: Footer Background
+  footer_base: Footer Base color
+  footer_text: Footer Text color
+schemes:
+  default :
+    title: Default
+    colors:
+      link: '#f39c11'
+      Base: '#f39c12'
+      text: '#171717'
+      footer_bg: '#0e0e0e'
+      footer_base: '#f39d14'
+      footer_text: '#f9f9f9'
+
